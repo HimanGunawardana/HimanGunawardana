@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3437d4&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f6e58d&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Computer+Networks";color=008000&"NSBM+Green+University+(NSBM)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=f6e58d&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Computer+Networks;NSBM+Green+University+(NSBM)">
 </p>
 <img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
 # 💫 About Me:
